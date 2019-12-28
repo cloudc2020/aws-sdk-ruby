@@ -109,3 +109,4 @@ end
 group :repl do
   gem 'pry'
 end
+gem 'puma'
